@@ -13,6 +13,7 @@
 		DACD026326328AF80022406E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DACD026126328AF80022406E /* Main.storyboard */; };
 		DACD026526328AF90022406E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DACD026426328AF90022406E /* Assets.xcassets */; };
 		DACD026826328AF90022406E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DACD026626328AF90022406E /* LaunchScreen.storyboard */; };
+		DACD027026328B960022406E /* homeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACD026F26328B960022406E /* homeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DACD026426328AF90022406E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DACD026726328AF90022406E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DACD026926328AF90022406E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DACD026F26328B960022406E /* homeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				DACD025D26328AF80022406E /* SceneDelegate.swift */,
 				DACD025F26328AF80022406E /* ViewController.swift */,
 				DACD026126328AF80022406E /* Main.storyboard */,
+				DACD026F26328B960022406E /* homeViewController.swift */,
 				DACD026426328AF90022406E /* Assets.xcassets */,
 				DACD026626328AF90022406E /* LaunchScreen.storyboard */,
 				DACD026926328AF90022406E /* Info.plist */,
@@ -141,6 +144,7 @@
 				DACD026026328AF80022406E /* ViewController.swift in Sources */,
 				DACD025C26328AF80022406E /* AppDelegate.swift in Sources */,
 				DACD025E26328AF80022406E /* SceneDelegate.swift in Sources */,
+				DACD027026328B960022406E /* homeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
